@@ -9,9 +9,9 @@ console.log(`${rectangleArea} = ${rectangleWidth} * ${rectangleLength}`)
 // The formula of trapezoid area is
 // Area = b1 + b2 / 2
 
-const Lengthb1 = 100
-const Lengthb2 = 120
+const lengthB1 = 100
+const lengthB2 = 120
 
-const trapezoidArea = Lengthb1 + Lengthb2 / 2
+const trapezoidArea = lengthB1 + lengthB2 / 2
 
-console.log(`${trapezoidArea} = ${Lengthb1} + ${Lengthb2} / 2
+console.log(`${trapezoidArea} = ${lengthB1} + ${lengthB1} / 2
